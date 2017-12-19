@@ -1,3 +1,3 @@
-var shortid = require('shortid');
+var shortid = require('shortid')
 
-console.log(shortid.generate());
+console.log(shortid.generate())
